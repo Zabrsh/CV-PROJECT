@@ -1,0 +1,29 @@
+[
+    {
+        "id":"",
+        "firstname":"Firstname",
+        "lastname":"Lastname",
+        "title":"Title",
+        "address":"City,Sub city",
+        "email":"Mail Address"
+    },
+    {
+        "institution":"Name of institution",
+        "city":"City",
+        "fromYear":"YYYY",
+        "toYear":"YYYY",
+        "stream":"Stream"
+
+    },
+    {
+        "company":"Company Name",
+        "role":"Role or Postion or Title",
+        "city":"City",
+        "toYear":"YYYY",
+        "stream":"Stream"
+
+    },
+    {
+        "skill" : "Your Skill"
+    }
+]
